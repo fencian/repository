@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="org.apache.struts:struts2-spring-plugin:2.3.24" type="repository">
+    <properties maven-id="org.apache.struts:struts2-spring-plugin:2.3.24" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/struts/struts2-spring-plugin/2.3.24/struts2-spring-plugin-2.3.24.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/3.0.5.RELEASE/spring-web-3.0.5.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
